@@ -1,0 +1,542 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : TPLC_THUMBNAIL
+ major_version : 28
+ minor_version : 0
+ type : 65543
+ description : ""
+ subtype : 8192
+page :
+ name : TPLC_THUMBNAIL
+ identifier : 0x286e2e470baa3e1a
+ internal_properties : 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
+ properties :
+  width : 32767
+  height : 32767
+ controls :
+  -
+    name : TPLC_THUMBNAIL
+    identifier : 0x286e2e470bab3e1a
+    internal_properties : CAAAAAgAAADln75ACrQn6jss/Hc9bC7ElMAMKycxS7/v62kDdk7lEyZO7pYvwcvkk0Q71xZ+IaQ2tkmm6kyAG6kK6SGo//+m3kKTPMZwUIEdqB0IYcXYKMQew0+KdASberTYSWIUs2OBio0F1dDcCTXQeo+2GN4zaVuX0uaxTjaqquxwBhPHXjY7juC20O5L9cBDTieFZB3kJgrjsSEaJESlE3b0+vvEjnigYQcWD5exo4EMznWNPVebM95b5jItFtVUBNv4hiO1vqDj689gcCglbFXOW5q7gvmaM8j38QZa5rk/aeKuHTwgm9Z842cuyOQg7xrQS6YT/vhijINETLLhmEHw3V49DWQ1cc3549zmNG5lieOUQ9a71iOzXaDaXT17ukWcjxB53VHxScJlZ7dbRyhXiMJcinQSpKEfxYSmTDRFOVFdPq5FcHUQJgYK4AFBnBCnJtkhgzIv1p+4FsAIiysS68y/iWDRdlvBBsBoIKRfxM/Gh1jVgVMxb5SQ571ChnmRQODmW/NOtD8Aag/Udcz4iG3Dkn3MQyToeJmFg8NTFEubauGoAyI5yo8AUyQHCMjP1pQpESK9gPX+VWAqI36b+sr0TcUPWAhlqdyUfkwXKpT8l8nC0Az1P0F0+XJaO6oTOcykT6EcN6Q41lR2cEPXxhf6XE51ah0cDrcYSp4l20oytco5d1Ze5NPHUFpjrsEZqoXnnNCITezWXRXenZLwfgfnZUbm9KKbudbqeBiteVbcpe8pSq4rShpSzdme1wvS+zpY2W7jkQjn5SjlqSFY/WWjZMe//eqaEGSfGqMb+mkiUsnj5VYmWebZb/E2A6dStmnPI7u9AAXyphevV2ZGAF9kTYpG
+    properties :
+     width : 50
+     height : 50
+    controls :
+     -
+       name : IMG_TPLIMAGE
+       identifier : 0x286e2e470bac3e1a
+       internal_properties : CAAAAAgAAACW8g+bCo5TZK1n+1IBGTYYt6Bcw32tk0ONwC3qiyzt7jDjzjySnAq6AjkVgyZfqjQtyYUPnnMxdrPcxByDDbCEAfTXn2uUJTC39wVkmkYa2UQ9IjA143IrQqyepTVCw/mC6c+4u8CcBKYaqzvgS7JG/k6mk0fJlM1LzHAuL1/T6Lif3a0iCxIF9aXEcKx+l4g6fFt5pWfR1XYzdLQmBy7pliw7HNjh7u203aMGs0HPRwtMoSBnF2pN1H6ziu1x5xsONuqridZYiWdIcL+J9NeFRKRN+7ruQqwGjCsyt9aSKIAXY/MrK9Sdyo4KupXIKXFKWUg5AJ/0HT0aiSth5xB/6g9oryMDVBr4FpyYTy84OYHTLnhDMq9X7LXDRO7lbU2BCDWPW6g5rlFnOLyLN8BoBqbVW5FJMrt4x4W4N5vU3XTGYrciDBdjWXG8+1iaK/WRJU/wZWgrtZoPj081vohFh1FOygHvhnncY80QpEFvpDr6z5g6NUUUl4ntbSOAprCbDhKB+/oVYLQLfWVcdBt/CKGg8rv56pirPyzap7x+LO2mweIeBOFt19UTeY0vg+3OaEFLTO0FNmH9jLmjJxrmlN5drM5ccjQbwfc3W47a+YEAt7JpCA6t29aWh1uQ0Mx9i8popqddIx/jQHRZodgV25q16uBo3IzC6Nkj8Uvwokwz2kMZOcSFKF1Q2+TJ/jcLI+usojqM1NzKdDAzeEqP4WkgIgecgAilxPFSQ2JXbgbCLoDvzvVaiYorQvtJEmunAzz/w7H6Wkk4HLip5geT9lzxVNmFovY/MCkRQmEJ8+5O9ZU3PqFRrHyTcmwpMmSlNkMrVj+WEgva6uoT4gRLkxIwN45kciOqfdkfq+/E1s3xnlPnwiEkBZFZVPiOHoDC1Shzg2USekfPTuxryTmdbzMYg/Dt+3s3oPFyMjz382biQkbWe4elwjBWahQMeLBOwuSscrYqZpmDF+ci+Ljs1tlMzNCN8yllf5KOgDAwiJzR4hgMzVxMe8L4GDSMlyFWUJsp41x6qmfcfyWtm5SOiNppPCX1NUV6YnJX6rcEVeW5YaNBeDEONIb4mmb5p4jAC4CUz6VlueNOePKeIP6haGxkehfLsxeRzNVArGTsuNKiCWHLj3QfHUtrDoUWgKw8DwhmgIgi2yHIqBgL7qkn+wCYyx4jS00Qt4gea50+2UqDelkHda+Z/zsLuPrwJDLUoYw+qDxT+P/Joi9CSMdxG8HOK2TTjqAmG5FLUA9o2DHCXOxMEPg0GJ4W8AudH72Dhw==
+       properties :
+        width : 50
+        height : 50
+       type : 22
+       code_elements :
+        type_code : 57
+        alias : C1
+        p_codes :
+         -
+           type : 851999
+           role : N
+         -
+           internal_properties : CAAAAAgAAADJIc6oZzN8osW4RsdzcPbMGzKD3BuEsz4RTyy95ksWUsOFqWruKxqVkveiFwzGZXKtJ7R31qVSf3m5ZCDgwKvze0/KXqnIHLfRei3gPFGaaqgF0z3JgFd5B18CNKbCyiEzClNRyIcrRXQnV/PbiXFdi9fdrkEvpdj6Iq5czqYNb+vFTcFqF1frHomEnUjoYkclkVaeXwF+r3YVjKyYTS3f1NQ5RW44hvRU4cuwMpqqLOtoUO0TXa1SO3GxNo+XraQTIj4=
+           code : |1+
+            
+            
+            EXTERN window
+            
+            pclBox		is object dynamic
+            pclThumb 	is object dynamic
+            pclControl 	is object dynamic
+            nWidth	is int
+            nHeight	is int
+            rRatioW		is real = 1.0
+            rRatioH		is real = 1.0
+            rRatio 		is real = 1.0
+            nPosX		is int
+            nPosY		is int
+            
+            // Retrieves the image in real size
+            pclThumb = GetPageObject("thb" + __IMAGEALIAS)
+            pclBox   = GetPageObject("box" + __IMAGEALIAS)
+            pclControl = GetPageObject(__IMAGEALIAS)
+            
+            // If the initial width was not stored
+            IF pclThumb:getAttribute("orgwidth") THEN
+            	
+            	// Retrieves the initial stored width
+            	nWidth = pclThumb:getAttribute("orgwidth") 		
+            ELSE
+            	
+            	// Retrieves the initial width
+            	nWidth = pclThumb:offsetWidth
+            	
+            	// Saves the initial width in an attribute on the object
+            	pclThumb:setAttribute("orgwidth", nWidth)
+            END	
+            
+            // If the initial height was not stored
+            IF pclThumb:getAttribute("orgheight") THEN
+            	
+            	// Retrieves the initial stored height
+            	nHeight = pclThumb:getAttribute("orgheight") 	
+            ELSE
+            	
+            	// Retrieves the initial height
+            	nHeight = pclThumb:offsetHeight
+            	
+            	// Saves the initial height in an attribute on the object
+            	pclThumb:setAttribute("orgheight", nHeight)
+            END
+            
+            // Ratio of the image
+            IF nWidth > nHeight THEN
+            	rRatio = nHeight / nWidth 
+            ELSE 
+            	rRatio = nWidth / nHeight 
+            END
+            
+            // Ratio for reduction in width
+            IF nWidth > __MAXWIDTH THEN	
+            	rRatioW = __MAXWIDTH / nWidth	
+            	nWidth = __MAXWIDTH
+            	nHeight = nHeight * rRatioW
+            END
+            
+            // Ratio for reduction in height
+            IF nHeight > __MAXHEIGHT THEN	
+            	rRatioH = __MAXHEIGHT / nHeight	
+            	nHeight = __MAXHEIGHT
+            	nWidth = nWidth * rRatioH
+            END
+            
+            // Calculates the position of the image
+            nPosX = (MySelf..Width - nWidth) / 2 + MySelf..X
+            nPosY = (MySelf..Height - nHeight) / 2 + MySelf..Y
+            
+            // Restores the position to 0 if it is less
+            IF nPosX < 0 THEN nPosX = 0
+            IF nPosY < 0 THEN nPosY = 0
+            IF nPosX + nWidth > window:document:body:offsetWidth THEN nPosX = window:document:body:offsetWidth - nWidth - 64
+            IF nPosY + nHeight > window:document:body:offsetHeight THEN nPosY = window:document:body:offsetHeight - nHeight - 64
+            
+            pclBox:removeAttribute("opacity")
+            
+            // Resizes the image
+            pclThumb:style:width 		= nWidth
+            pclThumb:style:height 		= nHeight
+            
+            // Displays the image
+            pclBox:style:left			= nPosX + "px"
+            pclBox:style:top			= nPosY + "px"
+            pclBox:style:zIndex 		= MaxZIndex()
+            pclBox:style:visibility 	= "visible"
+            pclThumb:style:visibility 	= "visible"
+            
+            // Starts the animation
+            gnAnimationTimer = Timer(Animation, 2)
+           type : 851998
+           role : N
+         -
+           type : 851984
+           enabled : false
+         -
+           type : 1310736
+           enabled : false
+         -
+           type : 852149
+           role : N
+           enabled : false
+         -
+           type : 852178
+           role : N
+           enabled : false
+         -
+           type : 852179
+           role : N
+           enabled : false
+         -
+           type : 852180
+           role : N
+           enabled : false
+    type : 42
+    code_elements :
+     type_code : 92
+     alias : C2
+     p_codes :
+      -
+        code : |1-
+         
+         GLOBAL
+         __IMAGETHUMBNAIL	is string						// Path of the thumbnail image
+         __IMAGEREALSIZE	is string						// Path of the image in real size (if not specified, will use the thumbnail image)
+         __ALIAS				is string						// Alias of the control template
+         __IMAGEALIAS		is string						// Alias of the image
+         __MAXWIDTH			is int = 640					// [MODIFIABLE]: Maximum displayable width for the image in real size
+         __MAXHEIGHT			is int = 480					// [MODIFIABLE]: Maximum displayable height for the image in real size	
+        type : 851968
+      -
+        code : |1-
+         
+         ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         //
+         //  /!\ Don't modify this code: keep the call to ExecuteAncestor /!\
+         //
+         ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         
+         InitThumbnail()
+         
+         ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         //
+         // To attribute an image, use the following syntax: <Control Template control> = <image>
+         // To attribute an image in real size, use the SetImageRealsize function: <Control Template control>.SetImageRealSize(<image>)
+         //
+         // where <image> is the path relative to the _WEB directory of the image or a full URL of the image to display
+         //
+         ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         
+         __IMAGETHUMBNAIL = IMG_TPLIMAGE..Image
+        type : 851980
+      -
+        code : |1-
+         PROCEDURE SetValue(LOCAL sImage is string)
+         
+         // Keeps the image
+         __IMAGETHUMBNAIL = sImage
+         
+         // Displays the image
+         IMG_TPLIMAGE = sImage
+        type : 852019
+      -
+        code : |1-
+         PROCEDURE GetValue()
+         
+         // Returns the image
+         RESULT __IMAGETHUMBNAIL
+        type : 852018
+      -
+        type : 852298
+        role : N
+      -
+        code : |1-
+         
+         ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         //
+         //  /!\ Don't modify this code: keep the call to ExecuteAncestor /!\
+         //
+         ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+         
+         gnAnimationTimer is int
+         
+         LOCAL	
+         	
+         IF __IMAGEALIAS <> "" THEN
+         	// Loads the image
+         	Preload(__IMAGEALIAS, __IMAGETHUMBNAIL, __IMAGEREALSIZE)
+         END
+        type : 851999
+        role : N
+      -
+        type : 852227
+        enabled : false
+      -
+        type : 1310979
+        enabled : false
+      -
+        type : 852228
+        role : N
+        enabled : false
+      -
+        type : 852217
+        role : N
+        enabled : false
+ type : 1
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAAAnTcbuRFh3etDH3lwnRu9A0AX1TFNhlZFAoZAKwr9XpOLVTJKVB8lDK0zUhAlYSVM9mp4/kKg3HjYywMq4EqSGmcHoIpcYlpx9iIicLQKhx+lWsEjWwQ==
+  type_code : 91
+  p_codes :
+   -
+     type : 852298
+     role : N
+   -
+     type : 851999
+     role : N
+   -
+     type : 852000
+     role : N
+   -
+     internal_properties : CAAAAAgAAAC8gmh+MC4QrU0utgNBfl0Ba/jqg1LK+Dwp8MhpUhqrFXKYnYkcdsFAaHOY6ObpQ/xfKfSxjrQterWfXIxYE+XU8eTa3dgHHYih6pD5FI+viG7ChbqMzBs=
+     type : 852167
+   -
+     type : 852169
+     role : N
+   -
+     type : 852225
+     role : N
+   -
+     internal_properties : CAAAAAgAAAC8gmh+MC4QrU0utgNBfl0Ba/jqg1LK+Dwp8MhpUhqrFXKYnYkcdsFAaHOY6ObpQ/xfKfSxjrQterWfXIxYE+XU8eTa3dgHHYih6pD5FI+viG7ChbqMzBs=
+     type : 852227
+   -
+     type : 1310979
+     enabled : false
+   -
+     type : 852228
+     role : N
+  procedures :
+   -
+     name : SetImageRealSize
+     procedure_id : 1760395386950794778
+     type_code : 14
+     code : |1-
+      // Summary: Defines the image in real size
+      // Syntax:
+      // SetImageRealSize (<sImage> is string)
+      //
+      // Parameters:
+      //	sImage (string): Path of the image
+      // Return value:
+      // 	None
+      //
+      PROCEDURE SetImageRealSize(LOCAL sImage is string)
+      
+      // Keeps the image
+      __IMAGEREALSIZE = sImage
+      
+      // The thumbnail image will be used if no image is defined
+      IF __IMAGEREALSIZE ~= "" THEN		
+      	__IMAGEREALSIZE = __IMAGETHUMBNAIL
+      END	
+     type : 458752
+   -
+     name : GetImageRealSize
+     procedure_id : 1760395386950860314
+     type_code : 14
+     code : |1-
+      // Summary: Returns the image in real size
+      // Syntax:
+      // [ <Result> = ] GetImageRealSize ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	string: Image in real size
+      //
+      PROCEDURE GetImageRealSize()
+      
+      RESULT __IMAGEREALSIZE
+     type : 458752
+   -
+     name : Preload
+     internal_properties : CAAAAAgAAACpVKVZsLfLE8L4p0LtgzSc9zLd1GEcA6oDq9JxVFUnklsj8GWeaOpdtJ3KYoazDK5taA/n/7D/FEOExrt17yj4FCFpL2s6SC5bIY1NeeStZyREK+M+N76PfiiC/JouxJA/6G3yfgRDwk4BUN04HB3X0sGp7g68WZVA31yDtpJdPdcFXwHcw4EEMWTbdRGL+rz/+R/CsUIm3AdP88MNyVeEU7OQWGEaU6NN+MkNYkb3bW5O88LzAFCAhvzCaql9f1uUjPDoUpfix9gc/TeWP2bl
+     procedure_id : 1760395386950925850
+     type_code : 14
+     code : |1-
+      // Summary: Pre-loads the images
+      // Syntax:
+      // Preload (<sAlias> is string, <sThumbnailImage> is string, <sImageRealSize> is string)
+      //
+      // Parameters:
+      //	sAlias (string): Alias of the image control
+      //	sThumbnailImage (string): Path of the thumbnail image
+      //	sImageRealSize (string): Path of the image in real size
+      // Return value:
+      // 	None
+      //
+      PROCEDURE Preload(LOCAL sAlias is string, LOCAL sImageThumbnail is string, LOCAL sImageRealSize is string)
+      
+      pclControl 	is object dynamic
+      pclThumb	is object dynamic
+      
+      // Retrieves the corresponding HTML object
+      pclControl = GetPageObject(sAlias)
+      
+      IF pclControl <> Null THEN
+      	
+      	// No image in real size?
+      	IF sImageRealSize = "" THEN
+      		
+      		// Display the thumbnail image
+      		sImageRealSize = sImageThumbnail
+      	END
+      	
+      	// Store the path of the image in  the tag itself
+      	pclControl:setAttribute("thumb", (sImageRealSize))		
+      	pclControl:style:cursor = "url(" + FolderWeb() + "cursor/zoomin.cur), pointer"
+      	
+      	// Retrieves the image in real size
+      	pclThumb = GetPageObject("thb" + sAlias)
+      	pclThumb:src = sImageRealSize
+      END
+      
+      HideImage()
+     type : 458752
+     role : N
+   -
+     name : Animation
+     internal_properties : CAAAAAgAAADrKeBUaTOcDEVvXS2Xqo5jANNXpZhWWqs75I6fuB0mWi8+37/Uiu1UisEZNG/N1xLe6xn0D+rf/yltmExSpONA3t65PczS9UJjw5laTlK0Vw==
+     procedure_id : 1760395386950991386
+     type_code : 14
+     code : |1-
+      // Summary: Animates the appearance of the image in real size
+      // Syntax:
+      // New_Procedure ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      PROCEDURE Animation()
+      
+      pclBox 		is object dynamic
+      nOpacity 	is int
+      
+      // Retrieves the box of the image in real size
+      pclBox   = GetPageObject("box" + __IMAGEALIAS)
+      
+      nOpacity = Val(pclBox:getAttribute("opacity"))
+      nOpacity += 10	
+      
+      IF nOpacity > 100 THEN
+      	
+      	// End of timer
+      	EndTimer(gnAnimationTimer)
+      	gnAnimationTimer = 0
+      	RETURN
+      END
+      
+      SetOpacity(pclBox, nOpacity)	
+     type : 458752
+     role : N
+   -
+     name : HideImage
+     internal_properties : CAAAAAgAAADQMBbWRk1W889ibK2HMSFGnWjiSKEzi2vh4iqCP9ZmCPjK8R2r/QtUW5eMmWcTuRL9SaibxTrj10m7Mda96J2l13WqF8blOnhx0PFCjQEXjnTmsHvGnowKgivLbsF61oytBhbR1Tg7UdSv8SyKwgL4UGEf64LOcyobWJwRZN6+vpBcgM/9A1oseMnAWwayU1pqGsqE0j58w7lowUPUsrM4may20ETpPtAoK8zX
+     procedure_id : 1760395386951056922
+     type_code : 14
+     code : |1-
+      // Summary: Hides the image in real size
+      // Syntax:
+      // New_Procedure ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      PROCEDURE HideImage()
+      
+      pclBox is object dynamic
+      
+      // Stops the animation if it is in progress
+      IF gnAnimationTimer <> 0 THEN
+      	EndTimer(gnAnimationTimer)
+      	gnAnimationTimer = 0
+      END
+      
+      // Retrieves the box
+      pclBox = GetPageObject("box" + __IMAGEALIAS)
+      
+      SetOpacity(pclBox, 0)
+      pclBox:style:visibility = "hidden"
+      pclBox:style:left		= "-9999px"
+      pclBox:style:top		= "0px"
+      pclBox:style:zIndex 	= "0"
+     type : 458752
+     role : N
+   -
+     name : InitThumbnail
+     internal_properties : CAAAAAgAAABMtIHNE+tHSVbBJhidAhmmo75t45zVfjdIKJa+nR9EAVpqbk4XRpaqvryfXOgXGfvcfSfqz0kjnkvuSO6KpnjiA6/0cQLJ72uYZ0e7paeZYeDTnBUhJAmWEKXw1lGybBEj8okbION3MHJtmLt6nMMmQRebthBpDLO650YM6zPRvJ9B4ROgfebDvxQWnhN3ziTwukPSaXVvp6pB9yOo85+pG9b2aron
+     procedure_id : 1760395386951122458
+     type_code : 14
+     code : |1-
+      // Summary: Initializes the control template
+      // Syntax:
+      // InitThumbnail ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      PROCEDURE InitThumbnail()
+      
+      // Retrieves the alias of the control template
+      __ALIAS = MySelf..Alias
+      
+      // Retrieves the alias of the image control
+      __IMAGEALIAS = IMG_TPLIMAGE..Alias
+      
+      IMG_TPLIMAGE..HTMLBefore = StringBuild([
+      	<div id='box%1' name='box%1' style='padding:4px; position:absolute; top: 0px; left: -9999px; visibility: hidden; color:#fff; background: white;'>
+      	<img id='thb%1' name='thb%1' vspace=4 hspace=4 border=0 onclick='%4_HIDEIMAGE();' style='cursor: url(/%5/cursor/zoomout.cur), pointer'>
+      	</div>
+      	<div style='width: %2px; height: %3px'>
+      ], __IMAGEALIAS, IMG_TPLIMAGE..Width, IMG_TPLIMAGE..Height, __ALIAS, FolderWeb)
+      
+      IMG_TPLIMAGE..HTMLAfter = "</div>"
+     type : 458752
+   -
+     name : MaxZIndex
+     internal_properties : CAAAAAgAAADrKeBUaTOcDEVvXS2Xqo5jANNXpZhWWqs75I6fuB0mWi8+37/Uiu1UisEZNG/N1xLe6xn0D+rf/yltmExSpONA3t65PczS9UJjw5laTlK0Vw==
+     procedure_id : 1760395386951187994
+     type_code : 14
+     code : |1-
+      // Summary: <specify the action of the procedure>
+      // Syntax:
+      //[ <Result> = ] MaxZIndex ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	8-byte integer: // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //
+      PROCEDURE MaxZIndex()
+      
+      EXTERN document
+      
+      nIndex is int = 0
+      arrList is array of 0 object dynamic
+      
+      IF document:all THEN
+      	
+      	// Retrieves all the objects of the page
+      	arrList = document:all
+      ELSE
+      	
+      	// Retrieves all the objects of the page
+      	arrList = document:getElementsByTagName("div")
+      END
+      
+      FOR i = 1 _TO_ Dimension(arrList)
+      	// Retrieve the zIndex if it is greater
+      	pclDiv is dynamic object = arrList[i]
+      	if pclDiv <> null _and_ pclDiv:style then
+      		IF nIndex < Val(arrList[i]:style:zIndex) THEN				
+      			nIndex = Val(arrList[i]:style:zIndex)
+      		END
+      	end
+      END
+      
+      RESULT (nIndex + 1)
+     type : 458752
+     role : N
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : MDLC_ModèleChamps1
+resources :
+ string_res :
+  identifier : 0x1948c32e0007a986
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+webification :
+ internal_properties : CAAAAAgAAACYzxT95H3qP7nIys4LqA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
